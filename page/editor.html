@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport">
+    <title>Title</title>
+    <link rel="stylesheet" href="./wangEditor.min.js">
+</head>
+<body>
+<div id="editor">
+    <p>欢迎使用 <b>wangEditor</b> 富文本编辑器</p>
+</div>
+<script type="text/javascript">
+    var E = window.wangEditor
+    // var editor = new E('#editor')
+    var editor = new E( document.getElementById('editor') )
+    editor.create()
+</script>
+</body>
+</html>

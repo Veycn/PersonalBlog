@@ -1,0 +1,60 @@
+
+.about-title {
+    width: 200px;
+    margin: 0 auto;
+    padding-bottom: 10px;
+    font-size: 22px;
+    text-align: center;
+    border-bottom: 1px solid #b9b9b9;
+}
+p {
+    padding-left: 20px;
+}
+.comments {
+    box-sizing: border-box;
+    padding: 15px;
+}
+.comments .head {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
+
+.comments-container {
+    resize: none;
+    box-sizing: border-box;
+    padding: 10px;
+    width: 100%;
+    height: 90px;
+    border: 1px solid #e5e5e5;
+    background-color: #fff;
+    font-size: 14px;
+    line-height: 1.5;
+    outline: aqua;
+}
+.comments-item {
+    border: 1px dashed #ccc;
+    margin-bottom: 10px;
+}
+.send-wrapper {
+    width: 100%;
+    height: 30px;
+    margin-bottom: 10px;
+}
+.email {
+    width: 280px;
+    height: 28px;
+    vertical-align: middle;
+    border: 1px solid #ccc;
+    padding: 0 10px;
+}
+.send {
+    float: right;
+    width: 100px;
+    height: 30px;
+    background-color: #57A0CC;
+    cursor: pointer;
+    border: none;
+    outline: none;
+    vertical-align: middle;
+}

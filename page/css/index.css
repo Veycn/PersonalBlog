@@ -1,0 +1,209 @@
+body {
+    background: url("../img/background.jpeg");
+}
+
+header {
+    background: #181818;
+}
+.container {
+    width: 1170px;
+    height: 60px;
+    margin: 0 auto;
+    display: flex;
+}
+
+.title {
+    text-decoration: none;
+    color: #fff;
+    font-size: 18px;
+    line-height: 60px;
+}
+.center {
+    flex: 1;
+    display: flex;
+    box-sizing: border-box;
+    padding: 0 240px;
+}
+.center li {
+    list-style: none;
+    float: left;
+    flex: 1;
+    line-height: 60px;
+    text-align: center;
+
+}
+.center li a {
+    text-decoration: none;
+    color: #fff;
+}
+.search {
+    line-height: 60px;
+}
+
+.search .ipt {
+    width: 200px;
+    height: 30px;
+    border: none;
+    outline: none;
+    box-sizing: border-box;
+    padding: 10px;
+}
+.search .btn {
+    width: 60px;
+    height: 30px;
+}
+@media screen and (max-width: 1280px){
+    .center {
+        flex: 1;
+        display: flex;
+        box-sizing: border-box;
+        padding: 0 135px;
+    }
+    .container {
+        width: 960px;
+    }
+}
+
+.content {
+    width: 1170px;
+    margin: 30px auto 0 auto;
+
+}
+/*左侧区域*/
+.content-left {
+    width: 66%;
+    float: left;
+    display: inline-block;
+}
+.everyday {
+    background: #fff;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    box-shadow: 3px 4px 3px #888;
+    padding: 10px;
+}
+.everyday span {
+    display: block;
+    margin-bottom: 5px;
+    font-size: 12px;
+    color: slateblue;
+}
+
+
+.article-list {
+    width: 100%;
+    margin-top: 30px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    background: #fff;
+    box-shadow: 3px 4px 3px #888;
+}
+
+.article-item {
+    list-style: none;
+    box-sizing: border-box;
+    padding: 10px;
+    margin-top: 20px;
+    border-bottom: 1px dashed #ccc;
+}
+.article-item:last-child{
+    border: none;
+}
+
+.article-item .article-title {
+    font-size: 18px;
+    color: #000;
+    text-decoration: none;
+}
+.article-item .article-content {
+    text-indent: 2em;
+    color: #333;
+}
+
+.article-item .author {
+    width: 100%;
+    height: 25px;
+    background: #181818;
+    display: block;
+    color: #fff;
+    font-size: 14px;
+    line-height: 25px;
+    padding-left: 15px;
+    box-sizing: border-box;
+    border-radius: 4px;
+    margin-top: 15px;
+}
+
+/*右侧区域*/
+.content-right {
+    width: 30%;
+    float: left;
+    margin-left: 20px;
+}
+
+.tags {
+    width: 80%;
+    background: #181818;
+    border-radius: 5px;
+    color: #fff;
+    padding: 10px;
+    box-sizing: border-box;
+    margin-bottom: 15px;
+}
+.tag {
+    text-decoration: none;
+    margin: 5px;
+}
+.tags ul li {
+    margin-bottom: 10px;
+}
+.tags ul li a.link {
+    display: inline-block;
+    width: 100%;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    text-decoration: none;
+    margin: 5px 0;
+}
+.banner {
+    display: flex;
+    justify-content: space-between;
+}
+.comments p {
+    width: 100%;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.links-wrapper {
+    width: 100%;
+    padding: 0 20px;
+    box-sizing: border-box;
+}
+
+.links-group a:nth-child(1) {
+    margin-right: 20px;
+}
+
+.footer {
+    margin-top: 30px;
+    width: 100%;
+    height: 50px;
+    background: #181818;
+}
+.footer-container {
+    width: 1170px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+.white, .about a{
+    color: #eee;
+    margin-right: 10px;
+}
