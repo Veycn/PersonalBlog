@@ -35,6 +35,9 @@
                 <span>每日一句</span>
                 <p>说好的方法后分配景区平均气温批发价</p>
                 <button onclick="getEveryDay()"> get </button>
+                <button onclick="getList()">获取文章列表</button>
+                <button onclick="getArticleCount()">getArticleCount</button>
+                <button onclick="queryArticleById()">queryArticleById</button>
             </div>
             <div class="article-list">
                 <ul class="list-wrapper">
@@ -274,6 +277,48 @@
                 data: "test",
                 success: res => {
                     console.log(JSON.parse(res));
+                }
+            })
+        }
+
+        function getList() {
+            let page = 1;
+            let pageSize = 5;
+            $.ajax({
+                url: '/queryBlogByPage?page=' + (page - 1) + "&pageSize=" + pageSize,
+                method: 'get',
+                success: res => {
+                    console.log(JSON.parse(res))
+                },
+                error: err => {
+                    console.log(err);
+                }
+            })
+        }
+
+        function getArticleCount() {
+            $.ajax({
+                url: '/getArticleCount',
+                method: 'get',
+                success: res => {
+                    console.log(JSON.parse(res))
+                },
+                error: err => {
+                    console.log(err);
+                }
+            })
+        }
+
+        function queryArticleById() {
+            let aid = 3
+            $.ajax({
+                url: '/queryArticleById?aid=' + aid,
+                method: 'get',
+                success: res => {
+                    console.log(JSON.parse(res))
+                },
+                error: err => {
+                    console.log(err);
                 }
             })
         }

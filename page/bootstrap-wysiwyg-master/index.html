@@ -91,7 +91,7 @@
 
         </div>
         <div>
-          <button onclick="submit">提交</button>
+          <button onclick="submit()">提交</button>
         </div>
       </div>
     </div>
@@ -100,8 +100,19 @@
   <script type="text/javascript">
       function submit() {
           let content = $('#editor').html();
-          let title = $('#title').html();
-          let tags = $('#tags').html();
+          let title = $('#title').val();
+          let tags = $('#tags').val();
+          $.ajax({
+              url: '/editBlog?title=' + title + '&tags=' +tags,
+              method: 'post',
+              data: content,
+              success: res => {
+                  console.log(res);
+              },
+              error: err => {
+                  console.log(err);
+              }
+          })
 
       }
   </script>

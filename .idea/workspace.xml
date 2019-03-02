@@ -1,0 +1,853 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b36755b7-138d-4f58-9cb3-1f154aab35b4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/page/dist/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/page/dist/static/css/app.27556b1e7afc0345e9bedb8b9355a414.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/page/dist/static/css/app.27556b1e7afc0345e9bedb8b9355a414.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/page/dist/static/fonts/element-icons.6f0a763.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/page/dist/static/img/code.b325f8b.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/page/dist/static/js/app.a6a4e7ea68cf48aa23f8.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/page/dist/static/js/app.a6a4e7ea68cf48aa23f8.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/page/dist/static/js/manifest.2ae2e69a05c33dfc65f8.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/page/dist/static/js/manifest.2ae2e69a05c33dfc65f8.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/page/dist/static/js/vendor.1c3bf1d097a8872ed113.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/page/dist/static/js/vendor.1c3bf1d097a8872ed113.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/bootstrap-wysiwyg-master/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/page/bootstrap-wysiwyg-master/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/editor.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/page/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/page/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server.conf" beforeDir="false" afterPath="$PROJECT_DIR$/server.conf" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-74687680">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="10" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="3" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.5" value="4" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="12" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="8" />
+          <entry key="HTML" value="15" />
+          <entry key="JSON" value="1" />
+          <entry key="JavaScript" value="30" />
+          <entry key="PLAIN_TEXT" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CSS" value="2305" />
+          <entry key="HTML" value="3515" />
+          <entry key="JSON" value="8" />
+          <entry key="JavaScript" value="5536" />
+          <entry key="PLAIN_TEXT" value="84" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/loader.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="276">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dao/everydayDao.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="552">
+              <caret line="24" column="16" selection-start-line="24" selection-start-column="16" selection-end-line="24" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/server.conf">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="46">
+              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/page/dist/static/js/app.a6a4e7ea68cf48aa23f8.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dao/tagsDao.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="276">
+              <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/node_modules/_mysql@2.16.0@mysql/lib/Connection.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2070">
+              <caret line="90" column="27" selection-start-line="90" selection-start-column="27" selection-end-line="90" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/page/bootstrap-wysiwyg-master/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2070">
+              <caret line="90" selection-start-line="90" selection-end-line="90" />
+              <folding>
+                <element signature="n#style#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="483">
+              <caret line="21" column="33" lean-forward="true" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/everyday_controller.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="644">
+              <caret line="28" column="26" selection-start-line="28" selection-start-column="26" selection-end-line="28" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/page/css/sitemap.css" />
+        <option value="$PROJECT_DIR$/page/css/site-map.css" />
+        <option value="$PROJECT_DIR$/page/sitemap.html" />
+        <option value="$PROJECT_DIR$/page/css/about.css" />
+        <option value="$PROJECT_DIR$/page/about.html" />
+        <option value="$PROJECT_DIR$/page/css/index.css" />
+        <option value="$PROJECT_DIR$/page/css/base.css" />
+        <option value="$PROJECT_DIR$/config.js" />
+        <option value="$PROJECT_DIR$/page/editor.html" />
+        <option value="$PROJECT_DIR$/utils/getTime.js" />
+        <option value="$PROJECT_DIR$/utils/returnDataUtil.js" />
+        <option value="$PROJECT_DIR$/utils/getTimeUtil.js" />
+        <option value="$PROJECT_DIR$/dao/DBUtil.js" />
+        <option value="$PROJECT_DIR$/page/edit_everyday.html" />
+        <option value="$PROJECT_DIR$/web/everyday_controller.js" />
+        <option value="$PROJECT_DIR$/loader.js" />
+        <option value="$PROJECT_DIR$/dao/everydayDao.js" />
+        <option value="$PROJECT_DIR$/page/bootstrap-wysiwyg-master/index.html" />
+        <option value="$PROJECT_DIR$/dao/tagsDao.js" />
+        <option value="$PROJECT_DIR$/dao/tagBlogMappingDao.js" />
+        <option value="$PROJECT_DIR$/dao/blogDao.js" />
+        <option value="$PROJECT_DIR$/web/editBlog_controller.js" />
+        <option value="$PROJECT_DIR$/page/index.html" />
+        <option value="$PROJECT_DIR$/index.js" />
+        <option value="$PROJECT_DIR$/server.conf" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/absolute/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/ajv/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/ansi-escapes/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/ansi-red/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/ansi-regex/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/ansi-styles/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/ansi-wrap/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/argparse/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/array-differ/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/array-union/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/array-uniq/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/arrify/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/asn1/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/assert-plus/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/async/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/asynckit/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/aws-sign2/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/aws4/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/balanced-match/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/base64-js/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/bcrypt-pbkdf/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/bl/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/bluebird/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/brace-expansion/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/buffer-alloc-unsafe/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/buffer-alloc/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/buffer-crc32/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/buffer-fill/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/buffer/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/builtins/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/capture-stack-trace/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/caseless/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/caw/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/chalk/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/chardet/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/cli-cursor/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/cli-spinners/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/cli-width/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/clone/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/co-from-stream/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/co-fs-extra/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/co-read/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/co/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/coffee-script/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/color-convert/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/color-name/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/combined-stream/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/commander/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/concat-map/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/config-chain/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/consolidate/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/core-util-is/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/create-error-class/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/dashdash/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/decompress-tar/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/decompress-tarbz2/node_modules/file-type/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/decompress-tarbz2/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/decompress-targz/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/decompress-unzip/node_modules/file-type/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/decompress-unzip/node_modules/get-stream/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/decompress-unzip/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/decompress/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/delayed-stream/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/download-git-repo/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/download/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/duplexer3/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/ecc-jsbn/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/enable/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/end-of-stream/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/escape-string-regexp/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/esprima/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/extend-shallow/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/extend/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/external-editor/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/extsprintf/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/fast-deep-equal/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/fast-json-stable-stringify/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/fd-slicer/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/figures/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/file-type/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/filename-reserved-regex/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/filenamify/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/forever-agent/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/form-data/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/fs-constants/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/fs-extra/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/fs.realpath/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/get-proxy/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/get-stream/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/getpass/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/git-clone/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/glob/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/got/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/graceful-fs/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/graceful-readlink/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/gray-matter/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/handlebars/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/har-schema/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/har-validator/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/has-ansi/node_modules/ansi-regex/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/has-ansi/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/has-flag/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/has-generators/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/has-symbol-support-x/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/has-to-string-tag-x/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/http-signature/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/iconv-lite/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/ieee754/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/inflight/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/inherits/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/ini/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/inquirer/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/is-extendable/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/is-fullwidth-code-point/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/is-natural-number/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/is-object/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/is-promise/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/is-redirect/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/is-retry-allowed/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/is-stream/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/is-typedarray/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/is-utf8/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/is/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/isarray/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/isstream/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/isurl/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/js-yaml/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/jsbn/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/json-schema-traverse/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/json-schema/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/json-stringify-safe/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/jsonfile/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/jsprim/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/klaw/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/lodash/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/log-symbols/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/lowercase-keys/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/make-dir/node_modules/pify/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/make-dir/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/metalsmith/node_modules/ansi-regex/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/metalsmith/node_modules/ansi-styles/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/metalsmith/node_modules/chalk/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/metalsmith/node_modules/strip-ansi/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/metalsmith/node_modules/supports-color/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/metalsmith/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/mime-db/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/mime-types/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/mimic-fn/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/minimatch/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/minimist/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/mkdirp/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/multimatch/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/mute-stream/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/npm-conf/node_modules/pify/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/npm-conf/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/oauth-sign/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/object-assign/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/once/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/onetime/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/optimist/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/ora/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/os-homedir/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/os-tmpdir/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/path-is-absolute/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/pend/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/performance-now/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/pify/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/pinkie-promise/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/pinkie/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/prepend-http/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/process-nextick-args/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/proto-list/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/psl/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/punycode/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/qs/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/read-metadata/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/readable-stream/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/recursive-readdir/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/request/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/restore-cursor/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/rimraf/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/run-async/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/rxjs/ajax/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/rxjs/internal-compatibility/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/rxjs/operators/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/rxjs/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/rxjs/src/ajax/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/rxjs/src/internal-compatibility/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/rxjs/src/operators/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/rxjs/src/testing/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/rxjs/src/webSocket/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/rxjs/testing/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/rxjs/webSocket/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/safe-buffer/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/safer-buffer/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/seek-bzip/node_modules/commander/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/seek-bzip/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/semver/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/signal-exit/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/source-map/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/sprintf-js/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/sshpk/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/stat-mode/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/string-width/node_modules/strip-ansi/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/string-width/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/string_decoder/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/strip-ansi/node_modules/ansi-regex/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/strip-ansi/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/strip-dirs/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/strip-outer/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/supports-color/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/tar-stream/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/through/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/thunkify-wrap/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/thunkify/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/tildify/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/timed-out/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/tmp/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/to-buffer/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/toml/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/tough-cookie/node_modules/punycode/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/tough-cookie/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/trim-repeated/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/tslib/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/tunnel-agent/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/tweetnacl/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/uglify-js/node_modules/commander/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/uglify-js/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/uid/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/unbzip2-stream/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/unyield/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/unzip-response/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/uri-js/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/url-parse-lax/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/url-to-options/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/user-home/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/util-deprecate/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/uuid/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/validate-npm-package-name/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/verror/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/ware/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/win-fork/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/wordwrap/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/wrap-fn/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/wrappy/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/xtend/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/yaml-js/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/node_modules/yauzl/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/test/e2e/mock-skip-glob/template/package.json" />
+      <path value="$PROJECT_DIR$/.npm-global/lib/node_modules/vue-cli/test/e2e/mock-template-repo/template/package.json" />
+      <path value="$PROJECT_DIR$/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="x" value="2270" />
+    <option name="y" value="114" />
+    <option name="width" value="258" />
+    <option name="height" value="275" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="PersonalBlog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PersonalBlog" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PersonalBlog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PersonalBlog" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PersonalBlog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PersonalBlog" type="462c0819:PsiDirectoryNode" />
+              <item name="page" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PersonalBlog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PersonalBlog" type="462c0819:PsiDirectoryNode" />
+              <item name="page" type="462c0819:PsiDirectoryNode" />
+              <item name="dist" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PersonalBlog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PersonalBlog" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PersonalBlog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PersonalBlog" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/page" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Node.js.index.js">
+    <configuration name="editBlog_controller.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="editBlog_controller.js" working-dir="$PROJECT_DIR$/web">
+      <method v="2" />
+    </configuration>
+    <configuration name="everyday_controller.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="everyday_controller.js" working-dir="$PROJECT_DIR$/web">
+      <method v="2" />
+    </configuration>
+    <configuration name="getTimeUtil.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="getTimeUtil.js" working-dir="$PROJECT_DIR$/utils">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="index.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="loader.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="loader.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Node.js.index.js" />
+      <item itemvalue="Node.js.loader.js" />
+      <item itemvalue="Node.js.getTimeUtil.js" />
+      <item itemvalue="Node.js.everyday_controller.js" />
+      <item itemvalue="Node.js.editBlog_controller.js" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.index.js" />
+        <item itemvalue="Node.js.editBlog_controller.js" />
+        <item itemvalue="Node.js.everyday_controller.js" />
+        <item itemvalue="Node.js.getTimeUtil.js" />
+        <item itemvalue="Node.js.loader.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b36755b7-138d-4f58-9cb3-1f154aab35b4" name="Default Changelist" comment="" />
+      <created>1551227424786</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1551227424786</updated>
+      <workItem from="1551227425945" duration="8293000" />
+      <workItem from="1551261443287" duration="3640000" />
+      <workItem from="1551266337404" duration="1675000" />
+      <workItem from="1551268481033" duration="651000" />
+      <workItem from="1551274901499" duration="7311000" />
+      <workItem from="1551312774450" duration="213000" />
+      <workItem from="1551315640095" duration="1698000" />
+      <workItem from="1551329075298" duration="14165000" />
+      <workItem from="1551398643519" duration="8881000" />
+      <workItem from="1551414038352" duration="6048000" />
+      <workItem from="1551500196443" duration="317000" />
+      <workItem from="1551501189920" duration="1941000" />
+    </task>
+    <task id="LOCAL-00001" summary="everyday interface complete">
+      <created>1551400545410</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1551400545410</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="54833000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1440" y="0" width="1920" height="1080" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.11374407" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32970297" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3158416" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32970297" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.46534654" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.26756757" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.conf" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="everyday interface complete" />
+    <option name="LAST_COMMIT_MESSAGE" value="everyday interface complete" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="97">
+          <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page/css/site-map.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="661">
+          <caret line="28" column="21" lean-forward="true" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page/sitemap.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="43" column="10" selection-start-line="9" selection-start-column="4" selection-end-line="43" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page/css/base.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="5" selection-start-line="5" selection-end-line="12" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="21" column="50" selection-start-line="21" selection-start-column="50" selection-end-line="21" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="1" column="43" selection-start-line="1" selection-start-column="43" selection-end-line="1" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page/css/about.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="36" column="23" selection-start-line="36" selection-start-column="23" selection-end-line="36" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page/wangEditor.min.js" />
+    <entry file="file://$PROJECT_DIR$/page/bootstrap-wysiwyg-master/LICENSE">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page/bootstrap-wysiwyg-master/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="43" selection-start-line="43" selection-end-line="58" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page/edit_everyday.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2806">
+          <caret line="122" column="33" selection-start-line="122" selection-start-column="33" selection-end-line="122" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page/editor.html" />
+    <entry file="file://$PROJECT_DIR$/utils/returnDataUtil.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dao/DBUtil.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/getTimeUtil.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="309">
+          <caret line="36" column="48" selection-start-line="36" selection-start-column="48" selection-end-line="36" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/editBlog_controller.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2231">
+          <caret line="97" column="47" selection-start-line="97" selection-start-column="47" selection-end-line="97" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dao/blogDao.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="897">
+          <caret line="39" column="24" selection-start-line="39" selection-start-column="24" selection-end-line="39" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dao/tagBlogMappingDao.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/loader.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dao/everydayDao.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="24" column="16" selection-start-line="24" selection-start-column="16" selection-end-line="24" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page/dist/static/js/app.a6a4e7ea68cf48aa23f8.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dao/tagsDao.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/_mysql@2.16.0@mysql/lib/Connection.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2070">
+          <caret line="90" column="27" selection-start-line="90" selection-start-column="27" selection-end-line="90" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page/bootstrap-wysiwyg-master/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2070">
+          <caret line="90" selection-start-line="90" selection-end-line="90" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/everyday_controller.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="644">
+          <caret line="28" column="26" selection-start-line="28" selection-start-column="26" selection-end-line="28" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="21" column="33" lean-forward="true" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
